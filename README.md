@@ -1,2 +1,1 @@
-# sicp-ptbr
-Tradução do livro Structure and Interpretation of Computer Programs - 2ª edição.
+# Estrutura e Interpretação de Programas de Computador - 2ª Edição
